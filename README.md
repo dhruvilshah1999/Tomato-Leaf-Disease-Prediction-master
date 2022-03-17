@@ -1,2 +1,2 @@
-# Tomato-Leaf-Disease-Prediction-master
+# Tomato-Leaf-Disease-Prediction-master - 02/2021
      - End to End Project deevloped using 4 Layer CNN with 3 64(3x3) filter layer and 1 128(3x3) Layer, Finally deployed using HTML, CSS, Python, Flask and Javascript.
